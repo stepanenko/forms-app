@@ -13,9 +13,9 @@ Updated: **18.03.2018**
 00:05:27
 Introduction on State Management
 
-**УРОК 2.
+**>> УРОК 2.
 00:05:52
-Redux: Three Principles (current)**
+Redux: Three Principles**
 
 УРОК 3.
 00:13:17
