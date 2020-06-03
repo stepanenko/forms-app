@@ -15,7 +15,7 @@ Introduction on State Management
 
 **>> УРОК 2.
 00:05:52
-Redux: Three Principles**
+Redux: Three Principles <<**
 
 УРОК 3.
 00:13:17
