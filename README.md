@@ -9,7 +9,7 @@ Updated: **18.03.2018**
 
 Progress: **6/41**
 
-[YouTube Video](https://www.youtube.com/playlist?list=PLW2eQOsUPlWJRfWGOi9gZdc3rE4Fke0Wv)
+[YouTube Video Version](https://www.youtube.com/playlist?list=PLW2eQOsUPlWJRfWGOi9gZdc3rE4Fke0Wv)
 
 Updated via `npx npm-check-updates -u` at 16.09.2020
 
